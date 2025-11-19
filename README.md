@@ -1,0 +1,3 @@
+# LLM-From-Scratch-From-Whatsapp-messages
+
+This repository is my personal journey to understand Large Language Models from the absolute fundamentals. Instead of relying on high-level libraries or prebuilt components, I’m implementing every core piece from scratch — tokenization, embeddings, attention, transformer blocks, training loops, and sampling. The goal is simple: learn LLMs at the nuts-and-bolts level by building a fully functional mini-LLM that is transparent, readable, and modifiable. This project is not about state-of-the-art performance; it’s about deep understanding, experimentation, and gaining intuition for how modern language models actually work under the hood.
