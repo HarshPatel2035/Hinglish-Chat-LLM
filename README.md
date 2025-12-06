@@ -18,13 +18,10 @@ A conversational Hinglish chatbot fine-tuned using:
 
 ## 📂 Project Structure
 
-├── data/
-│   └── Hinglish-Everyday-Conversations-1M
-├── training/
-│   ├── finetune.ipynb
-│   ├── merged_model/
-│   └── lora_adapter/
-└── README.md
+📁 Project/
+├─ 📂 Hinglish-Everyday-Conversations-1M
+├─ 📂 qwen_hinglish_whatsapp_lora
+└─ 📄 README.md
 
 ---
 
