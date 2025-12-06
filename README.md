@@ -18,11 +18,12 @@ A conversational Hinglish chatbot fine-tuned using:
 
 ## 📂 Project Structure
 
+```
 📁 Project/
 ├─ 📂 Hinglish-Everyday-Conversations-1M
 ├─ 📂 qwen_hinglish_whatsapp_lora
 └─ 📄 README.md
-
+```
 ---
 
 ## 🧠 Model Details
